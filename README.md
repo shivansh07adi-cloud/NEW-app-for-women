@@ -244,10 +244,5 @@ If you would like to contribute to Femunity, please fork the project on GitHub a
 
 - All the responders to our survey and those who gave us suggestions.
 
-- Logo: [Aryan Laxaman](https://www.instagram.com/aryanlaxaman/)
-
-- Team Handling and Content: [Shourya Pratap SIngh - GDSC VIT-C | Management](https://www.linkedin.com/in/amspsingh04/)
-
-## 🪪 License
-
-Femunity is licensed under the MIT license. See [LICENSE.txt](LICENSE.txt) for more information.
+- Shivansh Kumar .
+- Aparna Bhadoriya .
