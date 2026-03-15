@@ -7,11 +7,6 @@
 </div>
 
 Femunity is a forum and discussion app that aims to empower young women by providing a safe space for free speech, devoid of hate speech and toxicity. With Femunity, you can create communities, share links, text, and image-based posts, upvote and comment on posts, and participate in discussions with like-minded individuals.
- 
- ## 💯 Project Achievements
- - [Global Top 100 | Google Solution Challenge](https://www.linkedin.com/posts/drowsy-coder_gdsc-solutionchallenge-vit-activity-7060683890058809344-eIzN?utm_source=share&utm_medium=member_desktop)
-- [Best Overall Project (1st in 400+ Teams) | IEEE YESIST12 Bangalore Section](https://www.linkedin.com/posts/drowsy-coder_appdevelopment-femaleempowerment-ieee-activity-7060303118273548289-qSXa?utm_source=share&utm_medium=member_desktop)
-- [Global Top 10 | Google Solution Challenge](https://www.linkedin.com/posts/drowsy-coder_gdsc-solutionchallenge-project-activity-7077547999547060224-lW77?utm_source=share&utm_medium=member_desktop)
 
 ## ⚠️ Initial Survey and Problem Statement Research
 
